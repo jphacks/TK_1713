@@ -3,7 +3,7 @@
 ![REMPI](https://i.gyazo.com/4aa9e3a817947de9d1b6a4b247458781.png)
 
 ## DEMO MOVIE
-[![rempidemo](https://i.gyazo.com/4bbcc7633b73667848e09c6f2a37e192.png)](https://www.youtube.com/watch?v=s1hxzKKwHBI)
+[![rempidemo](https://i.gyazo.com/4bbcc7633b73667848e09c6f2a37e192.png)](https://youtu.be/VrVtXWveN-w)
 
 ## 製品概要
 ### Cook × Tech
