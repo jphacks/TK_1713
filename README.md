@@ -47,7 +47,6 @@ REMPI（レムピ）は、自分が作りたい料理を複数選択し、それ
 
 * Google Cloud Vision API
 * Google Speach API
-* 
 
 #### フレームワーク・ライブラリ・モジュール
 * Ruby on Rails
@@ -57,9 +56,11 @@ REMPI（レムピ）は、自分が作りたい料理を複数選択し、それ
 #### 2日間に開発した独自の機能・技術
 * 解説テキストがはいった動画に対して、そのテキストを元にチャプターに分割する技術
 
-動画の各フレームを分析してテキストが表示されている領域を抽出している。その区間の画素のヒストグラムを前後のフレームのヒストグラムと比較することでテキストが変化しるかをチェックしている。
+動画の各フレームを分析してテキストが表示されている領域を抽出している。その区間の画素のヒストグラムを前後のフレームのヒストグラムと比較することでテキストが変化しているかをチェックしている。
+(例：https://github.com/jphacks/TK_1713/blob/master/src/movie_processing/hist.ipynb)
+
 そして、テキストが変化しているとみなされた場合のみOCRにかけ、実際にテキストが変化していた場合は、そこを動画の切れ目としてチャプターに分割している。
 
-( https://github.com/jphacks/TK_1713/blob/master/src/movie_processing/devide.py )
+(https://github.com/jphacks/TK_1713/blob/master/src/movie_processing/devide.py)
 
 * 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください（任意）
