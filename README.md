@@ -1,4 +1,6 @@
-# サンプル（プロダクト名）
+# REMPI（レムピ）
+
+![REMPI](https://i.gyazo.com/e476298765989dfb6ae04965f4f0c40a.png)
 
 [![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)
 
