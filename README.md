@@ -146,3 +146,11 @@ devide.pyで得た情報を元に、調理に必要な各工程に対して、�
 `python flask_test.py`でサーバーが起動し，
 `{"recipe_ids": [x, x, ...]}`という形式のjsonをpostすると
 `{"result": [{"index": xxx, "description": xxx, "duration": xxx, "mo_start": xxx, "mo_end": xxx, "recipe_id": xxx}, ...]}`という形式のjsonが返ってくる
+
+#### src/speech_recognition
+* recognition.js
+
+GoogleSpeechAPIとnode.jsで動くリアルタイム音声認識．
+実行するためには`export GOOGLE_APPLICATION_CREDENTIALS=xxxxx.json`というようにjson形式の認証ファイルを指定する必要がある．
+現在はNode.jsを用いているためローカルでしか動作せず，これをブラウザ上で動作させようと試みたが，間に合わなかった．
+
