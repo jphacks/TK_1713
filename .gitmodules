@@ -1,0 +1,3 @@
+[submodule "tk_1713_parallize"]
+	path = tk_1713_parallize
+	url = git@github.com:ta21cos/tk_1713_parallize.git
