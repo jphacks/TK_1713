@@ -1,0 +1,11 @@
+,stepNo,text,useStove,leavable,duration,start,end
+0,0.0,しょうが1かけ,False,False,0.0,4.0,4.5
+1,1.0,薄切りにする,False,False,0.0,5.5,6.5
+2,2.0,冷凛200g,False,False,0.0,7.5,9.0
+3,3.0,TUSCOm,False,False,0.0,9.5,9.5
+4,4.0,しょうれる,False,False,0.0,10.0,10.5
+5,5.0,TESCOm,False,False,0.0,11.0,11.0
+6,6.0,騎주大さじ1/2,False,False,0.0,11.5,12.0
+7,7.0,TESCOM200cc,False,False,0.0,13.0,14.5
+8,8.0,撹拌する,False,False,0.0,16.0,16.5
+9,9.0,冷凍マンゴーを乗せて完成!,False,False,0.0,17.5,18.0

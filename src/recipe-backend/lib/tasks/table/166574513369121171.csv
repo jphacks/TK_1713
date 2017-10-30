@@ -1,0 +1,10 @@
+,stepNo,text,useStove,leavable,duration,start,end
+0,0.0,湯をわかす,False,False,0.0,4.0,4.5
+1,1.0,葛きり(乾燥)20g,False,False,0.0,5.5,6.0
+2,2.0,袋の表記時間通りゆでる,False,False,0.0,7.0,8.5
+3,3.0,流水にさらし水気を切る,False,False,0.0,9.5,10.5
+4,4.0,葛きりを入れる,False,False,0.0,12.0,12.5
+5,5.0,1ココナッツミルク100cc,False,False,0.0,13.5,16.0
+6,6.0,フルーツミックス缶1缶(190g),False,False,0.0,17.0,18.5
+7,7.0,しあん40g,False,False,0.0,20.0,21.0
+8,8.0,1盛り付けて完成!,False,False,0.0,22.0,22.5

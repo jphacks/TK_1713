@@ -1,0 +1,12 @@
+.flexbox
+    .recipes-sidebar
+        = render 'recipes_sidebar'
+
+    .recipes-content
+
+        - id = @recipe.movie_url.scan(/(\d+)\/1\.m3u8/)[0][0]
+        = video_tag("#{id}.mp4", autoplay: true, width: "460px", height: "460px", controls: true)
+        %h2
+            =@recipe.name
+        .select-button{"data-id" => @recipe.id, "data-name" => @recipe.name}
+            この料理を作る

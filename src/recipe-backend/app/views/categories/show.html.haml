@@ -1,0 +1,23 @@
+.flexbox
+    .recipes-sidebar
+        = render 'recipes_sidebar'
+
+    .recipes-right
+        .recipes-navbar
+            %ul.navs
+                %li.nav
+                    =link_to("TOP", categories_url())
+                %li.nav
+                    = @category.name
+        .recipes-content
+
+            %h2
+                = @category.name
+
+            .recipe-boxes
+                - @category.recipes.each do |recipe|
+                    =link_to(recipe_url(recipe)) do
+                        .recipe-box
+                            %img.recipe-thumbnail{:src => recipe.movie_url.gsub("m3u8", "jpg")}
+                            .recipe-name
+                                = recipe.name

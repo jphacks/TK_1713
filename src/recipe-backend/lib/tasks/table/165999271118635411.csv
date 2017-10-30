@@ -1,0 +1,12 @@
+,stepNo,text,useStove,leavable,duration,start,end
+0,0.0,大根ACOg),False,False,0.0,4.0,5.0
+1,1.0,千切りにする,False,False,0.0,6.0,8.0
+2,2.0,|千切りにする,False,False,0.0,8.5,8.5
+3,3.0,きゅうり12本,False,False,0.0,9.5,10.5
+4,4.0,千切りにする,False,False,0.0,11.5,13.5
+5,5.0,った具材を入れる,False,False,0.0,15.5,16.5
+6,6.0,1缶(缶汁を切る),False,False,0.0,17.5,18.5
+7,7.0,マヨネーズ大さじ2,False,False,0.0,20.0,21.0
+8,8.0,塩こしょう,False,False,0.0,22.0,23.5
+9,9.0,白いりご小さじ1/2,False,False,0.0,24.5,25.5
+10,10.0,混ぜて完成!,False,False,0.0,27.0,28.0

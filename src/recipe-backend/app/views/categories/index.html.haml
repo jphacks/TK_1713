@@ -1,0 +1,13 @@
+.flexbox
+    .recipes-sidebar
+        = render 'recipes_sidebar'
+
+    .recipes-content
+        %h2
+            カテゴリからレシピを探す
+
+        .category-boxes
+            - @categories.each do |category|
+                =link_to(category_url(category)) do
+                    .category-box{:style => "background-image: url('/assets/categories/#{category.id}.jpeg')"}
+                        .category-name= category.name

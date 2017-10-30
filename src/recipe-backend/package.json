@@ -1,0 +1,11 @@
+{
+  "name": "recipe-backend",
+  "private": true,
+  "dependencies": {
+    "@types/jquery": "^3.2.15",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.47"
+  }
+}

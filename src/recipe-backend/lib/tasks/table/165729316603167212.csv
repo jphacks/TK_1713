@@ -1,0 +1,15 @@
+,stepNo,text,useStove,leavable,duration,start,end
+0,0.0,ごま油小さじ1,False,False,0.0,4.0,5.5
+1,1.0,鶏ひき肉50g,False,False,0.0,6.5,7.5
+2,2.0,ghめる,False,False,0.0,8.5,9.5
+3,3.0,塩こしょう少々,False,False,0.0,10.5,11.5
+4,4.0,度取り出す,False,False,0.0,13.0,13.5
+5,5.0,水,False,False,0.0,14.5,14.5
+6,6.0,水Occ,False,False,0.0,15.0,16.0
+7,7.0,めんつゆ大さじ3(3倍濃縮),False,False,0.0,17.0,18.0
+8,8.0,ひと立ちさる,False,False,0.0,19.5,21.0
+9,9.0,うどん(冷凍),False,False,0.0,21.5,22.5
+10,10.0,水溶き片栗粉小じ2,False,False,0.0,27.0,29.0
+11,11.0,溶き卵,False,False,0.0,31.5,33.0
+12,12.0,回し入れる,False,False,0.0,33.5,35.0
+13,13.0,卵がる,False,False,0.0,36.0,38.5

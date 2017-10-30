@@ -1,0 +1,21 @@
+.flexbox
+    .recipie-left
+        %ul
+            - @steps.each do |step|
+                %li{data: step}
+                    = step["description"]
+
+    .recipe-right
+        .recipe-content
+            %h2
+            .recipe-box
+                .movie-box
+                    - @recipes.each do |recipe|
+                        - id = recipe.movie_url.scan(/(\d+)\/1\.m3u8/)[0][0]
+                        %video.movie{:src => "/assets/#{id}.mp4", controls: true}
+                .button-box
+                    .circle
+                        .trianglel
+                    #rectangle
+                    .circle
+                        .triangler

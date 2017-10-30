@@ -1,0 +1,13 @@
+,stepNo,text,useStove,leavable,duration,start,end
+0,0.0,卵液1卵2個SF1,False,False,0.0,4.0,5.0
+1,1.0,卵液,False,False,0.0,5.5,5.5
+2,2.0,卵液混ぜる,False,False,0.0,6.0,7.5
+3,3.0,卵液砂糖大さじ3,False,False,0.0,8.0,9.0
+4,4.0,卵液,False,False,0.0,9.5,9.5
+5,5.0,卵液混ぜる,False,False,0.0,10.0,11.5
+6,6.0,かぼちゃプリン牛乳140cc,False,False,0.0,12.5,14.0
+7,7.0,ぶぼちゃプリン底から2cmの沸騰した湯に入れる,False,False,0.0,42.0,44.0
+8,8.0,ぼ卻プリン,False,False,0.0,44.5,44.5
+9,9.0,ぼちゃプリンふたして弱火で10分蒸,False,False,10.0,45.0,47.5
+10,10.0,生クリーム200cc,False,False,0.0,49.0,49.0
+11,11.0,完成!,False,False,0.0,58.0,59.0

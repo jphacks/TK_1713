@@ -1,0 +1,9 @@
+,stepNo,text,useStove,leavable,duration,start,end
+0,0.0,5mm幅の薄切りにず,False,False,0.0,5.5,8.5
+1,1.0,サラダ油適量,False,False,0.0,11.0,12.5
+2,2.0,170℃の油に山芋を入れ,False,False,0.0,13.0,14.5
+3,3.0,焼き色がつ,False,False,0.0,15.0,17.0
+4,4.0,山芋右取り出,False,False,0.0,17.5,17.5
+5,5.0,山芋を取り出す,False,False,0.0,18.0,20.5
+6,6.0,塩と乾煌パセリをまぶして完成!,False,False,0.0,21.5,24.0
+7,7.0,塩と乾燥パセリをまぶして完成!,False,False,0.0,24.5,25.0
